@@ -1,0 +1,28 @@
+@charset "UFT-8";
+
+
+/* お客様の声 */
+.my_row-reverse {
+    flex-direction: row-reverse;
+}
+
+
+/* 実績 */
+.height-460 {
+    height: 460px;
+}
+
+/* Plofile */
+
+.border-inf {
+    border-color: rgb(22,163,184);
+}
+
+/* foter */
+
+@media screen and (max-width:768px) {
+
+    .textsize-md {
+        font-size: 0.7rem;
+    }
+}
